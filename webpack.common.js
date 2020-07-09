@@ -92,35 +92,35 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: "./src/pages/kontakt.html",
       inject: true,
-      chunks: ["index"],
+      chunks: ["another"],
       filename: "kontakt.html",
     }),
 
     new HtmlWebpackPlugin({
       template: "./src/pages/nauka-css.html",
       inject: true,
-      chunks: ["index"],
+      chunks: ["another"],
       filename: "nauka-css.html",
     }),
 
     new HtmlWebpackPlugin({
       template: "./src/pages/nauka-html.html",
       inject: true,
-      chunks: ["index"],
+      chunks: ["another"],
       filename: "nauka-html.html",
     }),
 
     new HtmlWebpackPlugin({
       template: "./src/pages/nauka-js.html",
       inject: true,
-      chunks: ["index"],
+      chunks: ["another"],
       filename: "nauka-js.html",
     }),
 
     new HtmlWebpackPlugin({
       template: "./src/pages/zmienne.html",
       inject: true,
-      chunks: ["index"],
+      chunks: ["another"],
       filename: "zmienne.html",
     }),
   ],
