@@ -1,0 +1,9 @@
+.week-summary {
+    &__heading {
+    }
+    &::before {
+      content: url(../assets/img/szlaczek.png);
+      display: block;
+      margin-top: 64px;
+    }
+  }

@@ -90,10 +90,38 @@ module.exports = {
     }),
     
     new HtmlWebpackPlugin({
-      template: "./src/pages/adam.html",
+      template: "./src/pages/kontakt.html",
       inject: true,
       chunks: ["index"],
-      filename: "adam.html",
+      filename: "kontakt.html",
+    }),
+
+    new HtmlWebpackPlugin({
+      template: "./src/pages/nauka-css.html",
+      inject: true,
+      chunks: ["index"],
+      filename: "nauka-css.html",
+    }),
+
+    new HtmlWebpackPlugin({
+      template: "./src/pages/nauka-html.html",
+      inject: true,
+      chunks: ["index"],
+      filename: "nauka-html.html",
+    }),
+
+    new HtmlWebpackPlugin({
+      template: "./src/pages/nauka-js.html",
+      inject: true,
+      chunks: ["index"],
+      filename: "nauka-js.html",
+    }),
+
+    new HtmlWebpackPlugin({
+      template: "./src/pages/zmienne.html",
+      inject: true,
+      chunks: ["index"],
+      filename: "zmienne.html",
     }),
   ],
 };
