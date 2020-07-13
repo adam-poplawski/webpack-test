@@ -8,7 +8,7 @@ Prosty szablon strony wykonanej w oparciu o Webpack
 
 Kliknij na przycisk `Use this template`, aby utworzyć nowe repozytorium. Następnie sklonuj go na swo komputer, przejdź do katalogu z projektem i w konsoli wpisz polecenie `npm install`.
 
-## Jak z nim pracować?
+## Jak pracować z tym szablonem?
 
 Masz następujące opcje w konsoli:
 
