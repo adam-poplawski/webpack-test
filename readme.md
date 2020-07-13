@@ -1,4 +1,4 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover](../pict/cover.png)
 
 # Strona Adama Frontendowca
 
