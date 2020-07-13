@@ -1,4 +1,4 @@
-![cover](../pict/cover.png)
+![cover](../pict/template.jpg)
 
 # Strona Adama Frontendowca
 
