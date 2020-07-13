@@ -1,18 +1,20 @@
 ![cover](https://cotenfrontend.pl/img/cover.png)
 
-# WTF Webpack Starter Kit 
+# Strona Adama Frontendowca
 
-Simple toolkit for your static websites development.
+Prosty szablon strony wykonanej w oparciu o Webpack
 
-## How to use it?
+## Jak rozpocząć?
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+Kliknij na przycisk `Use this template`, aby utworzyć nowe repozytorium. Następnie sklonuj go na swo komputer, przejdź do katalogu z projektem i w konsoli wpisz polecenie `npm install`.
 
-## Available scripts
+## Jak z nim pracować?
 
-`npm run start` - runs development mode
+Masz następujące opcje w konsoli:
 
-`npm run build` - runs build process for production
+`npm run start` - Uruchamia pojekt w wersji developerskiej
 
-`npm run publish` - runs build process and publish the page using `gh-pages` branch
+`npm run build` - "Buduje" stronę do wysłania na serwer
+
+`npm run publish` - Publikuje stronę na GitHubie
 
