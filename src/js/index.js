@@ -35,3 +35,17 @@ hamburger.addEventListener('click', () => {
 console.log(moment().startOf('day').fromNow());
 
 
+
+const entry = localStorage.getItem('entry');
+let result = '';
+
+if (entry) {
+    result = entry;
+}
+
+const entryInput = document.querySelector('.entry--js');
+entryInput.value = result;
+
+
+
+
